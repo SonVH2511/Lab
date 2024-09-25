@@ -1,10 +1,10 @@
 ﻿  main.c
-E:\CTF\KCSC\TRAINING\Extend\Shellcode\shell\shellcode\shellcode\main.c(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-E:\CTF\KCSC\TRAINING\Extend\Shellcode\shell\shellcode\shellcode\main.c(58,44): warning C4133: 'function': incompatible types - from 'char [260]' to 'LPWSTR'
-E:\CTF\KCSC\TRAINING\Extend\Shellcode\shell\shellcode\shellcode\main.c(59,23): warning C4018: '<': signed/unsigned mismatch
+E:\CTF\KCSC\TRAINING\Lab\Shellcode\shell\shellcode\shellcode\main.c(24,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\CTF\KCSC\TRAINING\Lab\Shellcode\shell\shellcode\shellcode\main.c(58,44): warning C4133: 'function': incompatible types - from 'char [260]' to 'LPWSTR'
+E:\CTF\KCSC\TRAINING\Lab\Shellcode\shell\shellcode\shellcode\main.c(59,23): warning C4018: '<': signed/unsigned mismatch
   Generating code
-  1 of 6 functions (16.7%) were compiled, the rest were copied from previous compilation.
+  5 of 6 functions (83.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  shellcode.vcxproj -> E:\CTF\KCSC\TRAINING\Extend\Shellcode\shell\shellcode\x64\Release\shellcode.exe
+  shellcode.vcxproj -> E:\CTF\KCSC\TRAINING\Lab\Shellcode\shell\shellcode\x64\Release\shellcode.exe

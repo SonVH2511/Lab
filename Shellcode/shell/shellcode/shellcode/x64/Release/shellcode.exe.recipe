@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\CTF\KCSC\TRAINING\Extend\Shellcode\shell\shellcode\x64\Release\shellcode.exe</FullPath>
+      <FullPath>E:\CTF\KCSC\TRAINING\Lab\Shellcode\shell\shellcode\x64\Release\shellcode.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
